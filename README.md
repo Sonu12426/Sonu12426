@@ -25,9 +25,6 @@ Email Me 👉 ✉️ **sonu.kumar.paswan12426@gmail.com** For Collaboration/Proj
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Sonu12426&limit=5&theme=dark&combine_all_yearly_contributions=true)
-
 ---
 [![](https://visitcount.itsvg.in/api?id=Sonu12426&icon=1&color=0)](https://visitcount.itsvg.in)
 
